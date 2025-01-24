@@ -1,0 +1,457 @@
+025-01-20 00:20:47,005 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 00:20:47,005 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 00:20:47,005 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 00:20:47,021 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 400
+2025-01-20 00:20:47,021 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 400
+2025-01-20 00:20:47,021 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 400
+2025-01-20 00:24:13,622 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 00:24:13,622 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 00:24:13,622 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 00:24:13,687 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 400
+2025-01-20 00:24:13,687 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 400
+2025-01-20 00:24:13,687 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 400
+2025-01-20 00:24:20,981 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 00:24:20,981 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 00:24:20,981 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 00:24:21,034 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 400
+2025-01-20 00:24:21,034 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 400
+2025-01-20 00:24:21,034 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 400
+2025-01-20 00:27:18,198 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 00:27:18,198 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 00:27:18,198 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 00:27:18,231 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 400
+2025-01-20 00:27:18,231 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 400
+2025-01-20 00:27:18,231 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 400
+2025-01-20 00:27:24,783 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 00:27:24,783 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 00:27:24,783 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 00:27:24,792 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 400
+2025-01-20 00:27:24,792 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 400
+2025-01-20 00:27:24,792 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 400
+2025-01-20 00:29:17,989 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 00:29:17,989 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 00:29:17,989 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 00:29:17,992 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 400
+2025-01-20 00:29:17,992 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 400
+2025-01-20 00:29:17,992 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 400
+2025-01-20 00:32:28,515 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 00:38:43,075 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 00:38:43,075 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 00:38:43,075 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 00:38:43,096 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 400
+2025-01-20 00:38:43,096 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 400
+2025-01-20 00:38:43,096 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 400
+2025-01-20 00:42:55,688 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 00:42:55,688 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 00:42:55,688 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 00:42:55,733 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 400
+2025-01-20 00:42:55,733 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 400
+2025-01-20 00:42:55,733 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 400
+2025-01-20 00:43:06,660 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 00:43:06,660 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 00:43:06,660 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 00:43:06,683 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 400
+2025-01-20 00:43:06,683 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 400
+2025-01-20 00:43:06,683 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 400
+2025-01-20 00:43:40,788 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 00:43:40,788 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 00:43:40,788 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 00:43:40,795 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 400
+2025-01-20 00:43:40,795 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 400
+2025-01-20 00:43:40,795 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 400
+2025-01-20 00:51:19,397 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 00:51:19,397 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 00:51:19,397 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 00:51:19,571 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 400
+2025-01-20 00:51:19,571 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 400
+2025-01-20 00:51:19,571 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 400
+2025-01-20 00:59:17,843 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 00:59:17,843 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 00:59:17,843 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 00:59:21,843 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 400
+2025-01-20 00:59:21,843 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 400
+2025-01-20 00:59:21,843 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 400
+2025-01-20 01:09:25,633 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 01:09:25,633 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 01:09:25,633 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 01:09:31,379 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 400
+2025-01-20 01:09:31,379 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 400
+2025-01-20 01:09:31,379 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 400
+2025-01-20 01:11:40,420 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 01:11:40,420 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 01:11:40,420 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 01:11:44,920 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 200
+2025-01-20 01:11:44,920 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 200
+2025-01-20 01:11:44,920 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 200
+2025-01-20 01:12:21,042 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 01:12:21,042 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 01:12:21,042 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 01:12:21,051 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 400
+2025-01-20 01:12:21,051 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 400
+2025-01-20 01:12:21,051 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 400
+2025-01-20 01:13:03,753 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 01:13:03,753 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 01:13:03,753 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 01:13:07,848 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 200
+2025-01-20 01:13:07,848 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 200
+2025-01-20 01:13:07,848 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 200
+2025-01-20 01:13:31,690 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 01:13:31,690 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 01:13:31,690 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 01:13:34,761 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 200
+2025-01-20 01:13:34,761 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 200
+2025-01-20 01:13:34,761 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 200
+2025-01-20 01:14:03,244 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 01:14:03,244 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 01:14:03,244 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 01:14:05,997 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 200
+2025-01-20 01:14:05,997 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 200
+2025-01-20 01:14:05,997 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 200
+2025-01-20 01:14:52,973 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/documents/analyze
+2025-01-20 01:14:52,973 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/documents/analyze
+2025-01-20 01:14:52,973 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/documents/analyze
+2025-01-20 01:14:52,983 - doc_processing_api - INFO - Starting analysis of document: facture_test.pdf
+2025-01-20 01:14:52,983 - doc_processing_api - INFO - Starting analysis of document: facture_test.pdf
+2025-01-20 01:14:52,983 - doc_processing_api - INFO - Starting analysis of document: facture_test.pdf
+2025-01-20 01:14:52,984 - doc_processing_api - INFO - Content type: application/pdf
+2025-01-20 01:14:52,984 - doc_processing_api - INFO - Content type: application/pdf
+2025-01-20 01:14:52,984 - doc_processing_api - INFO - Content type: application/pdf
+2025-01-20 01:14:52,984 - doc_processing_api - INFO - File size: 1009 bytes
+2025-01-20 01:14:52,984 - doc_processing_api - INFO - File size: 1009 bytes
+2025-01-20 01:14:52,984 - doc_processing_api - INFO - File size: 1009 bytes
+2025-01-20 01:14:52,985 - doc_processing_api - INFO - Validation result: ValidationResult(is_valid=True, errors=[], warnings=[])
+2025-01-20 01:14:52,985 - doc_processing_api - INFO - Validation result: ValidationResult(is_valid=True, errors=[], warnings=[])
+2025-01-20 01:14:52,985 - doc_processing_api - INFO - Validation result: ValidationResult(is_valid=True, errors=[], warnings=[])
+2025-01-20 01:14:52,987 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/documents/analyze - Status: 200
+2025-01-20 01:14:52,987 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/documents/analyze - Status: 200
+2025-01-20 01:14:52,987 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/documents/analyze - Status: 200
+2025-01-20 01:17:22,979 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 01:17:22,979 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 01:17:22,979 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 01:17:26,063 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 200
+2025-01-20 01:17:26,063 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 200
+2025-01-20 01:17:26,063 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 200
+2025-01-20 01:21:39,676 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 01:21:39,676 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 01:21:39,676 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 01:21:39,679 - doc_processing_api - INFO - Starting CV analysis for file: Moussa_THIOR_CV_V4.pdf
+2025-01-20 01:21:39,679 - doc_processing_api - INFO - Starting CV analysis for file: Moussa_THIOR_CV_V4.pdf
+2025-01-20 01:21:39,679 - doc_processing_api - INFO - Starting CV analysis for file: Moussa_THIOR_CV_V4.pdf
+2025-01-20 01:21:39,742 - doc_processing_api - INFO - Successfully analyzed CV: Moussa_THIOR_CV_V4.pdf
+2025-01-20 01:21:39,742 - doc_processing_api - INFO - Successfully analyzed CV: Moussa_THIOR_CV_V4.pdf
+2025-01-20 01:21:39,742 - doc_processing_api - INFO - Successfully analyzed CV: Moussa_THIOR_CV_V4.pdf
+2025-01-20 01:21:39,743 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 200
+2025-01-20 01:21:39,743 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 200
+2025-01-20 01:21:39,743 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 200
+2025-01-20 14:17:23,030 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 14:17:23,030 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 14:17:23,030 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 14:17:23,038 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Moussa_THIOR_CV_V4.pdf
+2025-01-20 14:17:23,038 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Moussa_THIOR_CV_V4.pdf
+2025-01-20 14:17:23,038 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Moussa_THIOR_CV_V4.pdf
+2025-01-20 14:17:26,116 - doc_processing_api - INFO - Analyse du CV rï¿½ussie: Moussa_THIOR_CV_V4.pdf
+2025-01-20 14:17:26,116 - doc_processing_api - INFO - Analyse du CV rï¿½ussie: Moussa_THIOR_CV_V4.pdf
+2025-01-20 14:17:26,116 - doc_processing_api - INFO - Analyse du CV rï¿½ussie: Moussa_THIOR_CV_V4.pdf
+2025-01-20 14:17:26,118 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 200
+2025-01-20 14:17:26,118 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 200
+2025-01-20 14:17:26,118 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 200
+2025-01-20 14:18:36,927 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 14:18:36,927 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 14:18:36,927 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 14:18:36,934 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Moussa THIOR - CV 2.docx
+2025-01-20 14:18:36,934 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Moussa THIOR - CV 2.docx
+2025-01-20 14:18:36,934 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Moussa THIOR - CV 2.docx
+2025-01-20 14:18:36,935 - doc_processing_api - ERROR - Erreur lors de l'analyse du CV Moussa THIOR - CV 2.docx: Erreur lors du traitement du CV: Type de document non supportï¿½: word
+2025-01-20 14:18:36,935 - doc_processing_api - ERROR - Erreur lors de l'analyse du CV Moussa THIOR - CV 2.docx: Erreur lors du traitement du CV: Type de document non supportï¿½: word
+2025-01-20 14:18:36,935 - doc_processing_api - ERROR - Erreur lors de l'analyse du CV Moussa THIOR - CV 2.docx: Erreur lors du traitement du CV: Type de document non supportï¿½: word
+2025-01-20 14:18:36,936 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 400
+2025-01-20 14:18:36,936 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 400
+2025-01-20 14:18:36,936 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 400
+2025-01-20 14:22:30,043 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 14:22:30,043 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 14:22:30,043 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 14:22:30,076 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Black White Minimalist CV Resume (1).pdf
+2025-01-20 14:22:30,076 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Black White Minimalist CV Resume (1).pdf
+2025-01-20 14:22:30,076 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Black White Minimalist CV Resume (1).pdf
+2025-01-20 14:22:33,281 - doc_processing_api - INFO - Analyse du CV rï¿½ussie: Black White Minimalist CV Resume (1).pdf
+2025-01-20 14:22:33,281 - doc_processing_api - INFO - Analyse du CV rï¿½ussie: Black White Minimalist CV Resume (1).pdf
+2025-01-20 14:22:33,281 - doc_processing_api - INFO - Analyse du CV rï¿½ussie: Black White Minimalist CV Resume (1).pdf
+2025-01-20 14:22:33,282 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 200
+2025-01-20 14:22:33,282 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 200
+2025-01-20 14:22:33,282 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 200
+2025-01-20 14:25:06,556 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 14:25:06,556 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 14:25:06,556 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 14:25:06,558 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Moussa_THIOR_CV_V4.pdf
+2025-01-20 14:25:06,558 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Moussa_THIOR_CV_V4.pdf
+2025-01-20 14:25:06,558 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Moussa_THIOR_CV_V4.pdf
+2025-01-20 14:25:07,891 - doc_processing_api - INFO - Analyse du CV rï¿½ussie: Moussa_THIOR_CV_V4.pdf
+2025-01-20 14:25:07,891 - doc_processing_api - INFO - Analyse du CV rï¿½ussie: Moussa_THIOR_CV_V4.pdf
+2025-01-20 14:25:07,891 - doc_processing_api - INFO - Analyse du CV rï¿½ussie: Moussa_THIOR_CV_V4.pdf
+2025-01-20 14:25:07,893 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 14:25:07,893 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 14:25:07,893 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 14:25:23,772 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 14:25:23,772 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 14:25:23,772 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 14:25:23,775 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Black White Minimalist CV Resume (1).pdf
+2025-01-20 14:25:23,775 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Black White Minimalist CV Resume (1).pdf
+2025-01-20 14:25:23,775 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Black White Minimalist CV Resume (1).pdf
+2025-01-20 14:25:26,631 - doc_processing_api - INFO - Analyse du CV rï¿½ussie: Black White Minimalist CV Resume (1).pdf
+2025-01-20 14:25:26,631 - doc_processing_api - INFO - Analyse du CV rï¿½ussie: Black White Minimalist CV Resume (1).pdf
+2025-01-20 14:25:26,631 - doc_processing_api - INFO - Analyse du CV rï¿½ussie: Black White Minimalist CV Resume (1).pdf
+2025-01-20 14:25:26,632 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 14:25:26,632 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 14:25:26,632 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 15:48:14,808 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 15:48:14,808 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 15:48:14,808 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 15:48:14,811 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Moussa_THIOR_CV_V4.pdf
+2025-01-20 15:48:14,811 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Moussa_THIOR_CV_V4.pdf
+2025-01-20 15:48:14,811 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Moussa_THIOR_CV_V4.pdf
+2025-01-20 15:48:19,230 - doc_processing_api - INFO - Analyse du CV rï¿½ussie: Moussa_THIOR_CV_V4.pdf
+2025-01-20 15:48:19,230 - doc_processing_api - INFO - Analyse du CV rï¿½ussie: Moussa_THIOR_CV_V4.pdf
+2025-01-20 15:48:19,230 - doc_processing_api - INFO - Analyse du CV rï¿½ussie: Moussa_THIOR_CV_V4.pdf
+2025-01-20 15:48:19,233 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 15:48:19,233 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 15:48:19,233 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 15:48:50,125 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 15:48:50,125 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 15:48:50,125 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 15:48:50,129 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Moussa THIOR - CV 2.docx
+2025-01-20 15:48:50,129 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Moussa THIOR - CV 2.docx
+2025-01-20 15:48:50,129 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Moussa THIOR - CV 2.docx
+2025-01-20 15:48:50,129 - doc_processing_api - ERROR - Erreur lors de l'analyse du CV Moussa THIOR - CV 2.docx: Erreur lors du traitement du CV: Type de document non supportï¿½: word
+2025-01-20 15:48:50,129 - doc_processing_api - ERROR - Erreur lors de l'analyse du CV Moussa THIOR - CV 2.docx: Erreur lors du traitement du CV: Type de document non supportï¿½: word
+2025-01-20 15:48:50,129 - doc_processing_api - ERROR - Erreur lors de l'analyse du CV Moussa THIOR - CV 2.docx: Erreur lors du traitement du CV: Type de document non supportï¿½: word
+2025-01-20 15:48:50,131 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 400
+2025-01-20 15:48:50,131 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 400
+2025-01-20 15:48:50,131 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 400
+2025-01-20 15:55:31,673 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 15:55:31,673 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 15:55:31,673 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 15:55:31,675 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Moussa THIOR - CV 2.docx
+2025-01-20 15:55:31,675 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Moussa THIOR - CV 2.docx
+2025-01-20 15:55:31,675 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Moussa THIOR - CV 2.docx
+2025-01-20 15:55:31,719 - doc_processing_api - INFO - Analyse du CV rï¿½ussie: Moussa THIOR - CV 2.docx
+2025-01-20 15:55:31,719 - doc_processing_api - INFO - Analyse du CV rï¿½ussie: Moussa THIOR - CV 2.docx
+2025-01-20 15:55:31,719 - doc_processing_api - INFO - Analyse du CV rï¿½ussie: Moussa THIOR - CV 2.docx
+2025-01-20 15:55:31,720 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 15:55:31,720 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 15:55:31,720 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 15:55:46,219 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 15:55:46,219 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 15:55:46,219 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 15:55:46,222 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Moussa THIOR - CV 2.docx
+2025-01-20 15:55:46,222 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Moussa THIOR - CV 2.docx
+2025-01-20 15:55:46,222 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Moussa THIOR - CV 2.docx
+2025-01-20 15:55:46,261 - doc_processing_api - INFO - Analyse du CV rï¿½ussie: Moussa THIOR - CV 2.docx
+2025-01-20 15:55:46,261 - doc_processing_api - INFO - Analyse du CV rï¿½ussie: Moussa THIOR - CV 2.docx
+2025-01-20 15:55:46,261 - doc_processing_api - INFO - Analyse du CV rï¿½ussie: Moussa THIOR - CV 2.docx
+2025-01-20 15:55:46,263 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 15:55:46,263 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 15:55:46,263 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 15:56:11,850 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 15:56:11,850 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 15:56:11,850 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 15:56:11,852 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Moussa THIOR - CV 2.docx
+2025-01-20 15:56:11,852 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Moussa THIOR - CV 2.docx
+2025-01-20 15:56:11,852 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Moussa THIOR - CV 2.docx
+2025-01-20 15:56:11,882 - doc_processing_api - INFO - Analyse du CV rï¿½ussie: Moussa THIOR - CV 2.docx
+2025-01-20 15:56:11,882 - doc_processing_api - INFO - Analyse du CV rï¿½ussie: Moussa THIOR - CV 2.docx
+2025-01-20 15:56:11,882 - doc_processing_api - INFO - Analyse du CV rï¿½ussie: Moussa THIOR - CV 2.docx
+2025-01-20 15:56:11,884 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 15:56:11,884 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 15:56:11,884 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 15:56:17,524 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 15:56:17,524 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 15:56:17,524 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 15:56:17,528 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Moussa_THIOR_CV_V4.pdf
+2025-01-20 15:56:17,528 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Moussa_THIOR_CV_V4.pdf
+2025-01-20 15:56:17,528 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Moussa_THIOR_CV_V4.pdf
+2025-01-20 15:56:19,491 - doc_processing_api - INFO - Analyse du CV rï¿½ussie: Moussa_THIOR_CV_V4.pdf
+2025-01-20 15:56:19,491 - doc_processing_api - INFO - Analyse du CV rï¿½ussie: Moussa_THIOR_CV_V4.pdf
+2025-01-20 15:56:19,491 - doc_processing_api - INFO - Analyse du CV rï¿½ussie: Moussa_THIOR_CV_V4.pdf
+2025-01-20 15:56:19,493 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 15:56:19,493 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 15:56:19,493 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 16:09:52,817 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 16:09:52,817 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 16:09:52,817 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 16:09:52,820 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Moussa_THIOR_CV_V4.pdf
+2025-01-20 16:09:52,820 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Moussa_THIOR_CV_V4.pdf
+2025-01-20 16:09:52,820 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Moussa_THIOR_CV_V4.pdf
+2025-01-20 16:09:55,014 - doc_processing_api - ERROR - Erreur lors de l'analyse du CV Moussa_THIOR_CV_V4.pdf: Erreur lors du traitement du CV: cannot access local variable 'match' where it is not associated with a value
+2025-01-20 16:09:55,014 - doc_processing_api - ERROR - Erreur lors de l'analyse du CV Moussa_THIOR_CV_V4.pdf: Erreur lors du traitement du CV: cannot access local variable 'match' where it is not associated with a value
+2025-01-20 16:09:55,014 - doc_processing_api - ERROR - Erreur lors de l'analyse du CV Moussa_THIOR_CV_V4.pdf: Erreur lors du traitement du CV: cannot access local variable 'match' where it is not associated with a value
+2025-01-20 16:09:55,017 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 400
+2025-01-20 16:09:55,017 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 400
+2025-01-20 16:09:55,017 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 400
+2025-01-20 16:13:14,434 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 16:13:14,434 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 16:13:14,434 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 16:13:14,437 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Moussa_THIOR_CV_V4.pdf
+2025-01-20 16:13:14,437 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Moussa_THIOR_CV_V4.pdf
+2025-01-20 16:13:14,437 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Moussa_THIOR_CV_V4.pdf
+2025-01-20 16:13:16,542 - doc_processing_api - INFO - Analyse du CV rï¿½ussie: Moussa_THIOR_CV_V4.pdf
+2025-01-20 16:13:16,542 - doc_processing_api - INFO - Analyse du CV rï¿½ussie: Moussa_THIOR_CV_V4.pdf
+2025-01-20 16:13:16,542 - doc_processing_api - INFO - Analyse du CV rï¿½ussie: Moussa_THIOR_CV_V4.pdf
+2025-01-20 16:13:16,543 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 16:13:16,543 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 16:13:16,543 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 16:13:35,821 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 16:13:35,821 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 16:13:35,821 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 16:13:35,824 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Moussa THIOR - CV 2.docx
+2025-01-20 16:13:35,824 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Moussa THIOR - CV 2.docx
+2025-01-20 16:13:35,824 - doc_processing_api - INFO - Dï¿½but de l'analyse du CV: Moussa THIOR - CV 2.docx
+2025-01-20 16:13:35,843 - doc_processing_api - INFO - Analyse du CV rï¿½ussie: Moussa THIOR - CV 2.docx
+2025-01-20 16:13:35,843 - doc_processing_api - INFO - Analyse du CV rï¿½ussie: Moussa THIOR - CV 2.docx
+2025-01-20 16:13:35,843 - doc_processing_api - INFO - Analyse du CV rï¿½ussie: Moussa THIOR - CV 2.docx
+2025-01-20 16:13:35,844 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 16:13:35,844 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 16:13:35,844 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 16:15:47,164 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 16:15:47,164 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 16:15:47,164 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 16:15:47,170 - doc_processing_api - INFO - Début de l'analyse du CV: Moussa THIOR - CV 2.docx
+2025-01-20 16:15:47,170 - doc_processing_api - INFO - Début de l'analyse du CV: Moussa THIOR - CV 2.docx
+2025-01-20 16:15:47,170 - doc_processing_api - INFO - Début de l'analyse du CV: Moussa THIOR - CV 2.docx
+2025-01-20 16:15:47,241 - doc_processing_api - INFO - Analyse du CV réussie: Moussa THIOR - CV 2.docx
+2025-01-20 16:15:47,241 - doc_processing_api - INFO - Analyse du CV réussie: Moussa THIOR - CV 2.docx
+2025-01-20 16:15:47,241 - doc_processing_api - INFO - Analyse du CV réussie: Moussa THIOR - CV 2.docx
+2025-01-20 16:15:47,244 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 16:15:47,244 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 16:15:47,244 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 16:20:55,699 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 16:20:55,699 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 16:20:55,699 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 16:20:55,706 - doc_processing_api - INFO - Début de l'analyse du CV: Moussa_THIOR_CV_V4.pdf
+2025-01-20 16:20:55,706 - doc_processing_api - INFO - Début de l'analyse du CV: Moussa_THIOR_CV_V4.pdf
+2025-01-20 16:20:55,706 - doc_processing_api - INFO - Début de l'analyse du CV: Moussa_THIOR_CV_V4.pdf
+2025-01-20 16:20:57,815 - doc_processing_api - INFO - Analyse du CV réussie: Moussa_THIOR_CV_V4.pdf
+2025-01-20 16:20:57,815 - doc_processing_api - INFO - Analyse du CV réussie: Moussa_THIOR_CV_V4.pdf
+2025-01-20 16:20:57,815 - doc_processing_api - INFO - Analyse du CV réussie: Moussa_THIOR_CV_V4.pdf
+2025-01-20 16:20:57,817 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 16:20:57,817 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 16:20:57,817 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 16:24:10,288 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 16:24:10,288 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 16:24:10,288 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 16:24:10,292 - doc_processing_api - INFO - Début de l'analyse du CV: Moussa_THIOR_CV_V4.pdf
+2025-01-20 16:24:10,292 - doc_processing_api - INFO - Début de l'analyse du CV: Moussa_THIOR_CV_V4.pdf
+2025-01-20 16:24:10,292 - doc_processing_api - INFO - Début de l'analyse du CV: Moussa_THIOR_CV_V4.pdf
+2025-01-20 16:24:12,681 - doc_processing_api - INFO - Analyse du CV réussie: Moussa_THIOR_CV_V4.pdf
+2025-01-20 16:24:12,681 - doc_processing_api - INFO - Analyse du CV réussie: Moussa_THIOR_CV_V4.pdf
+2025-01-20 16:24:12,681 - doc_processing_api - INFO - Analyse du CV réussie: Moussa_THIOR_CV_V4.pdf
+2025-01-20 16:24:12,682 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 16:24:12,682 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 16:24:12,682 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 17:22:02,773 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 17:22:02,773 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 17:22:02,773 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 17:22:02,778 - doc_processing_api - INFO - Début de l'analyse du CV: Moussa THIOR - CV 2.docx
+2025-01-20 17:22:02,778 - doc_processing_api - INFO - Début de l'analyse du CV: Moussa THIOR - CV 2.docx
+2025-01-20 17:22:02,778 - doc_processing_api - INFO - Début de l'analyse du CV: Moussa THIOR - CV 2.docx
+2025-01-20 17:22:02,828 - doc_processing_api - INFO - Analyse du CV réussie: Moussa THIOR - CV 2.docx
+2025-01-20 17:22:02,828 - doc_processing_api - INFO - Analyse du CV réussie: Moussa THIOR - CV 2.docx
+2025-01-20 17:22:02,828 - doc_processing_api - INFO - Analyse du CV réussie: Moussa THIOR - CV 2.docx
+2025-01-20 17:22:02,830 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 17:22:02,830 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 17:22:02,830 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 17:23:14,195 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 17:23:14,195 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 17:23:14,195 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 17:23:14,201 - doc_processing_api - INFO - Début de l'analyse du CV: Moussa THIOR - CV 2.docx
+2025-01-20 17:23:14,201 - doc_processing_api - INFO - Début de l'analyse du CV: Moussa THIOR - CV 2.docx
+2025-01-20 17:23:14,201 - doc_processing_api - INFO - Début de l'analyse du CV: Moussa THIOR - CV 2.docx
+2025-01-20 17:23:14,275 - doc_processing_api - INFO - Analyse du CV réussie: Moussa THIOR - CV 2.docx
+2025-01-20 17:23:14,275 - doc_processing_api - INFO - Analyse du CV réussie: Moussa THIOR - CV 2.docx
+2025-01-20 17:23:14,275 - doc_processing_api - INFO - Analyse du CV réussie: Moussa THIOR - CV 2.docx
+2025-01-20 17:23:14,278 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 17:23:14,278 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 17:23:14,278 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 17:25:28,430 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 17:25:28,430 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 17:25:28,430 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 17:25:28,443 - doc_processing_api - INFO - Début de l'analyse du CV: Moussa_THIOR_CV_V4.pdf
+2025-01-20 17:25:28,443 - doc_processing_api - INFO - Début de l'analyse du CV: Moussa_THIOR_CV_V4.pdf
+2025-01-20 17:25:28,443 - doc_processing_api - INFO - Début de l'analyse du CV: Moussa_THIOR_CV_V4.pdf
+2025-01-20 17:25:31,125 - doc_processing_api - INFO - Analyse du CV réussie: Moussa_THIOR_CV_V4.pdf
+2025-01-20 17:25:31,125 - doc_processing_api - INFO - Analyse du CV réussie: Moussa_THIOR_CV_V4.pdf
+2025-01-20 17:25:31,125 - doc_processing_api - INFO - Analyse du CV réussie: Moussa_THIOR_CV_V4.pdf
+2025-01-20 17:25:31,128 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 17:25:31,128 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 17:25:31,128 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 17:26:59,185 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 17:26:59,185 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 17:26:59,185 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 17:26:59,188 - doc_processing_api - INFO - Début de l'analyse du CV: Moussa_THIOR_CV_V4.pdf
+2025-01-20 17:26:59,188 - doc_processing_api - INFO - Début de l'analyse du CV: Moussa_THIOR_CV_V4.pdf
+2025-01-20 17:26:59,188 - doc_processing_api - INFO - Début de l'analyse du CV: Moussa_THIOR_CV_V4.pdf
+2025-01-20 17:27:01,818 - doc_processing_api - INFO - Analyse du CV réussie: Moussa_THIOR_CV_V4.pdf
+2025-01-20 17:27:01,818 - doc_processing_api - INFO - Analyse du CV réussie: Moussa_THIOR_CV_V4.pdf
+2025-01-20 17:27:01,818 - doc_processing_api - INFO - Analyse du CV réussie: Moussa_THIOR_CV_V4.pdf
+2025-01-20 17:27:01,820 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 17:27:01,820 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 17:27:01,820 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 17:27:37,781 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 17:27:37,781 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 17:27:37,781 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 17:27:37,836 - doc_processing_api - INFO - Début de l'analyse du CV: Grey White Black Minimalist CV Resume.pdf
+2025-01-20 17:27:37,836 - doc_processing_api - INFO - Début de l'analyse du CV: Grey White Black Minimalist CV Resume.pdf
+2025-01-20 17:27:37,836 - doc_processing_api - INFO - Début de l'analyse du CV: Grey White Black Minimalist CV Resume.pdf
+2025-01-20 17:27:40,567 - doc_processing_api - INFO - Analyse du CV réussie: Grey White Black Minimalist CV Resume.pdf
+2025-01-20 17:27:40,567 - doc_processing_api - INFO - Analyse du CV réussie: Grey White Black Minimalist CV Resume.pdf
+2025-01-20 17:27:40,567 - doc_processing_api - INFO - Analyse du CV réussie: Grey White Black Minimalist CV Resume.pdf
+2025-01-20 17:27:40,571 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 17:27:40,571 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 17:27:40,571 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 17:55:35,904 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 17:55:35,904 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 17:55:35,904 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 17:55:35,906 - doc_processing_api - INFO - Début de l'analyse du CV: CV_Gnagna_Sarr.docx
+2025-01-20 17:55:35,906 - doc_processing_api - INFO - Début de l'analyse du CV: CV_Gnagna_Sarr.docx
+2025-01-20 17:55:35,906 - doc_processing_api - INFO - Début de l'analyse du CV: CV_Gnagna_Sarr.docx
+2025-01-20 17:55:35,935 - doc_processing_api - INFO - Analyse du CV réussie: CV_Gnagna_Sarr.docx
+2025-01-20 17:55:35,935 - doc_processing_api - INFO - Analyse du CV réussie: CV_Gnagna_Sarr.docx
+2025-01-20 17:55:35,935 - doc_processing_api - INFO - Analyse du CV réussie: CV_Gnagna_Sarr.docx
+2025-01-20 17:55:35,936 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 17:55:35,936 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 17:55:35,936 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 17:57:14,395 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 17:57:14,395 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 17:57:14,395 - doc_processing_api - INFO - Incoming request: POST http://localhost:8001/api/v1/cv/analyze
+2025-01-20 17:57:14,397 - doc_processing_api - INFO - Début de l'analyse du CV: CV_Gnagna_Sarr.pdf
+2025-01-20 17:57:14,397 - doc_processing_api - INFO - Début de l'analyse du CV: CV_Gnagna_Sarr.pdf
+2025-01-20 17:57:14,397 - doc_processing_api - INFO - Début de l'analyse du CV: CV_Gnagna_Sarr.pdf
+2025-01-20 17:57:17,069 - doc_processing_api - INFO - Analyse du CV réussie: CV_Gnagna_Sarr.pdf
+2025-01-20 17:57:17,069 - doc_processing_api - INFO - Analyse du CV réussie: CV_Gnagna_Sarr.pdf
+2025-01-20 17:57:17,069 - doc_processing_api - INFO - Analyse du CV réussie: CV_Gnagna_Sarr.pdf
+2025-01-20 17:57:17,071 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 17:57:17,071 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 17:57:17,071 - doc_processing_api - INFO - Request completed: POST http://localhost:8001/api/v1/cv/analyze - Status: 200
+2025-01-20 23:37:40,781 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 23:37:40,781 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 23:37:40,781 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 23:37:40,806 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 23:37:40,806 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 23:37:40,806 - doc_processing_api - INFO - Incoming request: POST http://localhost:8000/api/v1/cv/analyze
+2025-01-20 23:37:40,863 - doc_processing_api - INFO - Début de l'analyse du CV: Moussa THIOR - CV 2.docx
+2025-01-20 23:37:40,863 - doc_processing_api - INFO - Début de l'analyse du CV: Moussa THIOR - CV 2.docx
+2025-01-20 23:37:40,863 - doc_processing_api - INFO - Début de l'analyse du CV: Moussa THIOR - CV 2.docx
+2025-01-20 23:37:40,871 - doc_processing_api - ERROR - Erreur lors de l'analyse du CV Moussa THIOR - CV 2.docx: Erreur lors du traitement du CV: Type de document non supporté: word
+2025-01-20 23:37:40,871 - doc_processing_api - ERROR - Erreur lors de l'analyse du CV Moussa THIOR - CV 2.docx: Erreur lors du traitement du CV: Type de document non supporté: word
+2025-01-20 23:37:40,871 - doc_processing_api - ERROR - Erreur lors de l'analyse du CV Moussa THIOR - CV 2.docx: Erreur lors du traitement du CV: Type de document non supporté: word
+2025-01-20 23:37:40,877 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 400
+2025-01-20 23:37:40,877 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 400
+2025-01-20 23:37:40,877 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 400
+2025-01-20 23:37:40,880 - doc_processing_api - INFO - Début de l'analyse du CV: Black White Minimalist CV Resume.pdf
+2025-01-20 23:37:40,880 - doc_processing_api - INFO - Début de l'analyse du CV: Black White Minimalist CV Resume.pdf
+2025-01-20 23:37:40,880 - doc_processing_api - INFO - Début de l'analyse du CV: Black White Minimalist CV Resume.pdf
+2025-01-20 23:37:52,980 - doc_processing_api - INFO - Analyse du CV réussie: Black White Minimalist CV Resume.pdf
+2025-01-20 23:37:52,980 - doc_processing_api - INFO - Analyse du CV réussie: Black White Minimalist CV Resume.pdf
+2025-01-20 23:37:52,980 - doc_processing_api - INFO - Analyse du CV réussie: Black White Minimalist CV Resume.pdf
+2025-01-20 23:37:52,982 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 200
+2025-01-20 23:37:52,982 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 200
+2025-01-20 23:37:52,982 - doc_processing_api - INFO - Request completed: POST http://localhost:8000/api/v1/cv/analyze - Status: 200
